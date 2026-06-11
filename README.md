@@ -29,7 +29,8 @@ I leverage my foundational CS knowledge not to build applications, but to dissec
 ![Burp Suite](https://img.shields.io/badge/Tool-Burp_Suite-orange?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Tool-Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Bash](https://img.shields.io/badge/Scripting-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
---------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 📂 Repository Roadmap
 This GitHub space serves as a living portfolio of my offensive and defensive security journey:
 - 🎯 **CTF Writeups & Labs:**             Step-by-step solutions, custom scripts, and tool configurations from PicoCTF and BUET Inter-University contests.
