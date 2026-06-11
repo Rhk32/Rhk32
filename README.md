@@ -26,8 +26,11 @@ I leverage my foundational CS knowledge not to build applications, but to dissec
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🛠️ Core Auditing Toolbelt
 ![Kali Linux](https://img.shields.io/badge/OS-Kali_Linux-161616?style=for-the-badge&logo=kali-linux&logoColor=white)
+
 ![Burp Suite](https://img.shields.io/badge/Tool-Burp_Suite-orange?style=for-the-badge&logo=burp-suite&logoColor=white)
+
 ![Wireshark](https://img.shields.io/badge/Tool-Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=white)
+
 ![Bash](https://img.shields.io/badge/Scripting-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
