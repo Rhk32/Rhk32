@@ -1,6 +1,6 @@
 # 👋 Hey there !! 
 
-I'm Azraf Daian Rahik! Cybersecurity Explorer & Threat Analyzer. Currently pursuing my Bachelor's in **Computer Science and Engineering** at the **Bangladesh University of Engineering and Technology (BUET)**. 
+I'm **Azraf Daian Rahik**! Cybersecurity Explorer & Threat Analyzer. Currently pursuing my Bachelor's in **Computer Science and Engineering** at the **Bangladesh University of Engineering and Technology (BUET)**. 
 
 I leverage my foundational CS knowledge not to build applications, but to dissect software architectures, analyze security threats, and break down system vulnerabilities.
 
