@@ -42,11 +42,6 @@ This GitHub space serves as a living portfolio of my offensive and defensive sec
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rhk32&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
 ---
 
 ## 🤝 Connect with Me
